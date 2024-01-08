@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+}
+
+.div{
+  background-color: rgb(27, 219, 219);
+  width:300px;
+  height: 400px;
+}
+.my{
+  display: flex;
+  justify-content: center;
+}
